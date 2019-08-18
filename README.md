@@ -10,3 +10,6 @@
 ###### + Worth to mention:
 			https://www.utf8-chartable.de/unicode-utf8-table.pl
 			http://www.endmemo.com/unicode/unicodeconverter.php 
+
+### mrname - CLI tool
+##### To be ..
